@@ -17,3 +17,6 @@ install-sh
 missing
 aclocal.m4
 autom4te.cache
+compile
+config.guess
+config.sub
